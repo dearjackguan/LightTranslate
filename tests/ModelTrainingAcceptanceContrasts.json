@@ -1,0 +1,10 @@
+[
+  {"zh":"任务结束以后可以退出编辑器，没有必要将电脑关机。","en":"You can exit the editor after the task ends. There is no need to shut down the computer.","category":"necessity"},
+  {"zh":"请先退出浏览器，然后关掉电脑。","en":"Exit the browser first, then turn off the computer.","category":"order"},
+  {"zh":"退出程序以后不需要断开设备电源。","en":"You do not need to disconnect the device's power supply after exiting the program.","category":"necessity"},
+  {"zh":"电源必须保持接通，应用程序可以关闭。","en":"The power must remain connected, but the application can be closed.","category":"power"},
+  {"zh":"没有必要删除备份，但一定要保存新文件。","en":"There is no need to delete the backup, but you must save the new file.","category":"necessity"},
+  {"zh":"先保存全部修改，再关闭文档，最后关闭计算机。","en":"Save all changes first, then close the document, and finally turn off the computer.","category":"order"},
+  {"zh":"维修报价是925元人民币，税费另计。","en":"The repair quote is 925 Chinese yuan, with taxes charged separately.","category":"currency"},
+  {"zh":"安装还没完成，不可以关闭电脑。","en":"You must not turn off the computer because installation is not finished yet.","category":"prohibition"}
+]

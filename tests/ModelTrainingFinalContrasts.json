@@ -1,0 +1,18 @@
+[
+  {"zh":"下载结束后没有必要关掉计算机。","en":"There is no need to turn off the computer after the download ends.","category":"necessity"},
+  {"zh":"你必须关闭浏览器，但是不必关闭计算机。","en":"You must close the browser, but you do not need to turn off the computer.","category":"necessity"},
+  {"zh":"完成截图以后，无需退出程序。","en":"There is no need to exit the program after taking the screenshot.","category":"necessity"},
+  {"zh":"文件已经保存，你不需要再保存一次。","en":"The file is already saved. You do not need to save it again.","category":"necessity"},
+  {"zh":"重启之前一定要保存，但不必删除备份。","en":"You must save before restarting, but you do not need to delete the backup.","category":"necessity"},
+  {"zh":"此时无需断电，保持系统运行即可。","en":"There is no need to disconnect the power now. Just keep the system running.","category":"necessity"},
+  {"zh":"故障修好后可以断开电源，但这不是必须的。","en":"You can disconnect the power supply after the fault is fixed, but it is not required.","category":"necessity"},
+  {"zh":"请不要退出应用程序，否则修改将丢失。","en":"Do not exit the application, or your changes will be lost.","category":"prohibition"},
+  {"zh":"如果进度未达到100%，禁止关机。","en":"Do not shut down if progress has not reached 100%.","category":"prohibition"},
+  {"zh":"读取磁盘时不能拔掉电源。","en":"Do not unplug the power supply while reading the disk.","category":"power"},
+  {"zh":"先关闭文本编辑器，再关闭笔记本电脑。","en":"Close the text editor first, then turn off the laptop.","category":"close"},
+  {"zh":"每次检测的收费为315元人民币。","en":"Each inspection costs 315 Chinese yuan.","category":"currency"},
+  {"zh":"这件商品的标价是87欧元，税已包含在内。","en":"The listed price of this item is 87 euros, including tax.","category":"currency"},
+  {"zh":"这份报价只有税前金额，尚未包含税费。","en":"This quote only gives the pre-tax amount and does not yet include taxes.","category":"tax"},
+  {"zh":"免税与未含税是两回事。","en":"Tax-exempt and tax-exclusive are two different things.","category":"tax"},
+  {"zh":"付款未成功，不要重复提交订单。","en":"The payment was unsuccessful. Do not submit the order again.","category":"negation"}
+]

@@ -1,0 +1,18 @@
+[
+  {"zh":"请等同步结束再切断这台设备的电源。","en":"Wait until synchronization finishes before disconnecting this device's power supply.","category":"power"},
+  {"zh":"写入数据时必须保证计算机通电。","en":"Keep the computer powered on while data is being written.","category":"power"},
+  {"zh":"下载完成后你可以关闭浏览器，不必关机。","en":"You can close the browser after the download completes. You do not need to shut down the computer.","category":"close"},
+  {"zh":"关闭脚本编辑器之前先保存更改。","en":"Save changes before closing the script editor.","category":"close"},
+  {"zh":"若安装未结束，千万不要让电脑断电。","en":"If installation has not finished, do not disconnect the computer's power.","category":"power"},
+  {"zh":"删除文件前请确认已有备份。","en":"Confirm that a backup exists before deleting the file.","category":"negation"},
+  {"zh":"账单需要支付260元人民币。","en":"The bill requires a payment of 260 Chinese yuan.","category":"currency"},
+  {"zh":"这次维修报价为640元，税费另付。","en":"The quote for this repair is 640 yuan, with taxes paid separately.","category":"currency"},
+  {"zh":"门票售价42欧元，已经含税。","en":"The ticket costs 42 euros, including tax.","category":"currency"},
+  {"zh":"每个月需支付19美元才能继续使用。","en":"You must pay 19 US dollars each month to continue using it.","category":"currency"},
+  {"zh":"报价中没有包含税费，这不代表商品免税。","en":"Taxes are not included in the quote. This does not mean the goods are tax-exempt.","category":"tax"},
+  {"zh":"收费包含安装服务，但是不包含增值税。","en":"The fee includes installation services, but excludes VAT.","category":"tax"},
+  {"zh":"我只是暂停下载，并没有删除安装文件。","en":"I only paused the download; I did not delete the installation file.","category":"negation"},
+  {"zh":"故障由供电不足造成，与密码无关。","en":"The fault was caused by insufficient power, not the password.","category":"negation"},
+  {"zh":"保存失败时不要关闭文档。","en":"Do not close the document if saving fails.","category":"close"},
+  {"zh":"只有当备份完成后才能关闭电脑。","en":"You can turn off the computer only after the backup is complete.","category":"power"}
+]

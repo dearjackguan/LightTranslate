@@ -1,0 +1,18 @@
+[
+  {"zh":"你好世界","en":"Hello world."},
+  {"zh":"你好世界。","en":"Hello world."},
+  {"zh":"祝你好运","en":"Good luck."},
+  {"zh":"不用谢","en":"You're welcome."},
+  {"zh":"我马上回来","en":"I'll be right back."},
+  {"zh":"请稍等","en":"Please wait."},
+  {"zh":"全部保存","en":"Save all."},
+  {"zh":"稍后重试","en":"Try again later."},
+  {"zh":"保持冷静","en":"Stay calm."},
+  {"zh":"明早再见","en":"See you tomorrow morning."},
+  {"zh":"不要着急","en":"Don't rush."},
+  {"zh":"欢迎参加会议","en":"Welcome to the meeting."},
+  {"zh":"打开设置","en":"Open settings."},
+  {"zh":"网络不可用","en":"The network is unavailable."},
+  {"zh":"无需登录","en":"No login is required."},
+  {"zh":"请勿删除","en":"Do not delete."}
+]

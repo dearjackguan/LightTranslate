@@ -1,0 +1,79 @@
+{
+  "runtime": "CPython 3.12.10 Windows x64 embeddable",
+  "packages": {
+    "ctranslate2": "4.6.0",
+    "sentencepiece": "0.2.0",
+    "numpy": "2.2.6",
+    "PyYAML": "6.0.2",
+    "setuptools": "80.9.0"
+  },
+  "modelMirrorRevision": "9dc7a2c8f29ac18e020c93f8208476d1e3fe9a9f",
+  "assets": [
+    {
+      "kind": "python",
+      "name": "python-3.12.10-embed-amd64.zip",
+      "url": "https://www.python.org/ftp/python/3.12.10/python-3.12.10-embed-amd64.zip",
+      "sha256": "4acbed6dd1c744b0376e3b1cf57ce906f9dc9e95e68824584c8099a63025a3c3"
+    },
+    {
+      "kind": "wheel",
+      "package": "ctranslate2",
+      "version": "4.6.0",
+      "name": "ctranslate2-4.6.0-cp312-cp312-win_amd64.whl",
+      "url": "https://files.pythonhosted.org/packages/ec/4c/0ecd260233290bee4b2facec4d8e755e57d8781d68f276e1248433993c9f/ctranslate2-4.6.0-cp312-cp312-win_amd64.whl",
+      "sha256": "511cdf810a5bf6a2cec735799e5cd47966e63f8f7688fdee1b97fed621abda00"
+    },
+    {
+      "kind": "wheel",
+      "package": "sentencepiece",
+      "version": "0.2.0",
+      "name": "sentencepiece-0.2.0-cp312-cp312-win_amd64.whl",
+      "url": "https://files.pythonhosted.org/packages/c6/97/d159c32642306ee2b70732077632895438867b3b6df282354bd550cf2a67/sentencepiece-0.2.0-cp312-cp312-win_amd64.whl",
+      "sha256": "7a673a72aab81fef5ebe755c6e0cc60087d1f3a4700835d40537183c1703a45f"
+    },
+    {
+      "kind": "wheel",
+      "package": "numpy",
+      "version": "2.2.6",
+      "name": "numpy-2.2.6-cp312-cp312-win_amd64.whl",
+      "url": "https://files.pythonhosted.org/packages/36/fa/8c9210162ca1b88529ab76b41ba02d433fd54fecaf6feb70ef9f124683f1/numpy-2.2.6-cp312-cp312-win_amd64.whl",
+      "sha256": "c1f9540be57940698ed329904db803cf7a402f3fc200bfe599334c9bd84a40b2"
+    },
+    {
+      "kind": "wheel",
+      "package": "PyYAML",
+      "version": "6.0.2",
+      "name": "PyYAML-6.0.2-cp312-cp312-win_amd64.whl",
+      "url": "https://files.pythonhosted.org/packages/0c/e8/4f648c598b17c3d06e8753d7d13d57542b30d56e6c2dedf9c331ae56312e/PyYAML-6.0.2-cp312-cp312-win_amd64.whl",
+      "sha256": "7e7401d0de89a9a855c839bc697c079a4af81cf878373abd7dc625847d25cbd8"
+    },
+    {
+      "kind": "wheel",
+      "package": "setuptools",
+      "version": "80.9.0",
+      "name": "setuptools-80.9.0-py3-none-any.whl",
+      "url": "https://files.pythonhosted.org/packages/a3/dc/17031897dae0efacfea57dfd3a82fdd2a2aeb58e0ff71b77b87e44edc772/setuptools-80.9.0-py3-none-any.whl",
+      "sha256": "062d34222ad13e0cc312a4c02d73f059e86a4acbfbdea8f8f76b28c99f306922"
+    },
+    {
+      "kind": "model",
+      "direction": "en_zh",
+      "version": "1.9",
+      "name": "translate-en_zh-1_9.argosmodel",
+      "sha256": "433e7c4f034d87fbe2353161e05f18646d7999452f801a4e1f0378522b9850ab",
+      "mirror": true,
+      "official_index": "https://raw.githubusercontent.com/argosopentech/argospm-index/main/index.json",
+      "url": "https://huggingface.co/TiberiuCristianLeon/Argostranslate/resolve/9dc7a2c8f29ac18e020c93f8208476d1e3fe9a9f/translate-en_zh-1_9.argosmodel"
+    },
+    {
+      "kind": "model",
+      "direction": "zh_en",
+      "version": "1.9",
+      "name": "translate-zh_en-1_9.argosmodel",
+      "sha256": "62e7af5a3a48b530e47b7b3e5c78c2de79073ecd815750d2bf3ab35b4a67da2d",
+      "mirror": true,
+      "official_index": "https://raw.githubusercontent.com/argosopentech/argospm-index/main/index.json",
+      "url": "https://huggingface.co/TiberiuCristianLeon/Argostranslate/resolve/9dc7a2c8f29ac18e020c93f8208476d1e3fe9a9f/translate-zh_en-1_9.argosmodel"
+    }
+  ]
+}

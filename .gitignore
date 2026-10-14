@@ -1,0 +1,19 @@
+# Third-party reference repositories
+references/
+
+# Windows
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Visual Studio / VS Code
+.vscode/
+.idea/
+*.user
+*.suo
+
+# Build artifacts and temp
+bin/
+obj/
+*.log
+*.tmp

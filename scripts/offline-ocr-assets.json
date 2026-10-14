@@ -1,0 +1,111 @@
+{
+  "release": "v0.2.0",
+  "url": "https://github.com/hiroi-sora/RapidOCR-json/releases/download/v0.2.0/RapidOCR-json_v0.2.0.7z",
+  "archive": "RapidOCR-json_v0.2.0.7z",
+  "archiveSha256": "7ad9b283d03436c6cd0296723188699299cb4e5cf9140b410c59543aa5793c40",
+  "root": "RapidOCR-json_v0.2.0",
+  "files": [
+    "RapidOCR-json.exe",
+    "models/ch_PP-OCRv4_det_infer.onnx",
+    "models/ch_ppocr_mobile_v2.0_cls_infer.onnx",
+    "models/rec_ch_PP-OCRv4_infer.onnx",
+    "models/dict_chinese.txt"
+  ],
+  "licenses": [
+    {
+      "name": "RapidOCR-json-MIT.txt",
+      "url": "https://raw.githubusercontent.com/hiroi-sora/RapidOCR-json/main/LICENSE",
+      "sha256": "04033bb31326a4eeb50f06c71c77dfa80ed3ccf48cf15b715b1e275028321eab"
+    },
+    {
+      "name": "RapidOCR-Apache-2.0.txt",
+      "url": "https://raw.githubusercontent.com/RapidAI/RapidOCR/main/LICENSE",
+      "sha256": "3e0af25fdd06aa9586ae97adb00ea927ebe5a3805ac77d2d3a81ce5f55693333"
+    },
+    {
+      "name": "PaddleOCR-Apache-2.0.txt",
+      "url": "https://raw.githubusercontent.com/PaddlePaddle/PaddleOCR/release/2.7/LICENSE",
+      "sha256": "ff6311c56c1b22c9209c96cc8afc16da91c24ee55a15e14ebc46fe1960dbd856"
+    },
+    {
+      "name": "ONNXRuntime-MIT.txt",
+      "url": "https://raw.githubusercontent.com/microsoft/onnxruntime/v1.14.0/LICENSE",
+      "sha256": "2f07c72751aed99790b8a4869cf2311df85a860b22ded05fa22803587a48922c"
+    },
+    {
+      "name": "ONNXRuntime-ThirdPartyNotices.txt",
+      "url": "https://raw.githubusercontent.com/microsoft/onnxruntime/v1.14.0/ThirdPartyNotices.txt",
+      "sha256": "cc63920441c5681cfb1663caf1de1858349b517fc1bed9ca669a85bc526cd13e"
+    },
+    {
+      "name": "OpenCV-Apache-2.0.txt",
+      "url": "https://raw.githubusercontent.com/opencv/opencv/4.6.0/LICENSE",
+      "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30"
+    },
+    {
+      "name": "nlohmann-json-MIT.txt",
+      "url": "https://raw.githubusercontent.com/nlohmann/json/v3.11.2/LICENSE.MIT",
+      "sha256": "86b998c792894ccb911a1cb7994f7a9652894e7a094c0b5e45be2f553f45cf14"
+    },
+    {
+      "name": "Clipper-Boost-1.0.txt",
+      "url": "https://www.boost.org/LICENSE_1_0.txt",
+      "sha256": "c9bff75738922193e67fa726fa225535870d2aa1059f91452c411736284ad566"
+    },
+    {
+      "name": "zlib-README.txt",
+      "url": "https://raw.githubusercontent.com/madler/zlib/v1.2.12/README",
+      "sha256": "fc2c3368901700f0acdeb1d8afeaca5923296768ec6824ecdf627aac396001fd"
+    },
+    {
+      "name": "libjpeg-turbo-LICENSE.md",
+      "url": "https://raw.githubusercontent.com/opencv/opencv/4.6.0/3rdparty/libjpeg-turbo/LICENSE.md",
+      "sha256": "7d8683a7f048e715e08b4cada8b7f0d9a6ab8afad88ed09c1143ef764ecbc0f2"
+    },
+    {
+      "name": "libjpeg-README.ijg",
+      "url": "https://raw.githubusercontent.com/opencv/opencv/4.6.0/3rdparty/libjpeg-turbo/README.ijg",
+      "sha256": "4b7b9f8c03bb8d60270dfd12684e70ab21e4abfd27e73905cd1a7c4cae6f5cdb"
+    },
+    {
+      "name": "libpng-LICENSE.txt",
+      "url": "https://raw.githubusercontent.com/opencv/opencv/4.6.0/3rdparty/libpng/LICENSE",
+      "sha256": "bf5e22b9dce8464064ae17a48ea1133c3369ac9e1d80ef9e320e5219aa14ea9b"
+    },
+    {
+      "name": "libtiff-COPYRIGHT.txt",
+      "url": "https://raw.githubusercontent.com/opencv/opencv/4.6.0/3rdparty/libtiff/COPYRIGHT",
+      "sha256": "fbd6fed7938541d2c809c0826225fc85e551fdbfa8732b10f0c87e0847acafd7"
+    },
+    {
+      "name": "libwebp-COPYING.txt",
+      "url": "https://raw.githubusercontent.com/opencv/opencv/4.6.0/3rdparty/libwebp/COPYING",
+      "sha256": "5aec868f669e384a22372a4e8a1a6cd7d44c64cd451f960ca69cc170d1e13acf"
+    },
+    {
+      "name": "OpenEXR-LICENSE.txt",
+      "url": "https://raw.githubusercontent.com/opencv/opencv/4.6.0/3rdparty/openexr/LICENSE",
+      "sha256": "14eba5f05238f57c77e94f0ebd29a0b3736ba0456ff990cda16e21b6903ac453"
+    },
+    {
+      "name": "OpenJPEG-LICENSE.txt",
+      "url": "https://raw.githubusercontent.com/opencv/opencv/4.6.0/3rdparty/openjpeg/LICENSE",
+      "sha256": "a6af136f3e15038a666b61f376612a07d9a4e48cb7c01adbf3e33b3f14ab49b6"
+    },
+    {
+      "name": "Protobuf-LICENSE.txt",
+      "url": "https://raw.githubusercontent.com/opencv/opencv/4.6.0/3rdparty/protobuf/LICENSE",
+      "sha256": "6e5e117324afd944dcf67f36cf329843bc1a92229a8cd9bb573d7a83130fea7d"
+    },
+    {
+      "name": "ITT-LICENSE.txt",
+      "url": "https://raw.githubusercontent.com/opencv/opencv/4.6.0/3rdparty/ittnotify/src/ittnotify/LICENSE.BSD",
+      "sha256": "77cf47aa88df151faba9db8bbbfcff8e83dbe5f0ff0dac3ef76e63217f579a55"
+    },
+    {
+      "name": "Quirc-LICENSE.txt",
+      "url": "https://raw.githubusercontent.com/opencv/opencv/4.6.0/3rdparty/quirc/LICENSE",
+      "sha256": "f64a0d2030dd3bb501f303eb66097ed92cd0c63f824e515b1116dafbce5346fe"
+    }
+  ]
+}
